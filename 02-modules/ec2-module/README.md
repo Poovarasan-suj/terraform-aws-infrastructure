@@ -1,5 +1,9 @@
 #  Terraform EC2 Module
 
+## Outputs
+
+![Created EC2 Instance using module](./outputs/ec2-creation.png)
+
 ##  Project Overview
 
 This project demonstrates how to create and use a **Terraform module** to provision an AWS EC2 instance.
