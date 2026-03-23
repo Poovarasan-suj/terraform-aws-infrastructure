@@ -17,9 +17,6 @@
 
 ---
 
-### 🔹 Accessing State via AWS CLI
-![State CLI](./outputs/state-cli.png)
-
 ## Project Overview
 
 This project demonstrates how to configure a **Terraform Remote Backend** using:
